@@ -1,0 +1,14 @@
+title: 'Red - The Crowning'
+path: ""
+baseurl: ""
+
+exclude:
+  - README.md
+  - vendor
+  - Template
+
+plugins: []
+
+safe: true
+lsi: false
+
